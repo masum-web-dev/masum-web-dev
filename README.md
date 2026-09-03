@@ -1,9 +1,6 @@
 
 <img width="1343" height="784" alt="banner" src="https://github.com/user-attachments/assets/f5f04cdb-353b-40f2-b1aa-7f28ef9dbfcb" />
 
-
-
-<h1 align="center">Hi 👋, I'm MD Masum Hossain</h1>
 <h3 align="center">Passionate WordPress Developer & IT Manager | Crafting Modern Web Experiences and Evolving with React</h3>
 
 <p align="left"> <a href="https://twitter.com/masumakash1999" target="blank"><img src="https://img.shields.io/twitter/follow/masumakash1999?logo=twitter&style=for-the-badge" alt="masumakash1999" /></a> </p>

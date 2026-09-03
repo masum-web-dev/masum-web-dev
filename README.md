@@ -39,7 +39,6 @@ With **intermediate experience in PHP** and deep expertise in **WordPress**, I a
 ---
 
 <h3 align="left">Connect with me:</h3>
-✉️ **Email:** [masum.akash1999@gmail.com](mailto:masum.akash1999@gmail.com)
 <p align="left">
 <a href="https://twitter.com/masumakash1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masumakash1999" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/share/1gpjzxyvep/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1gpjzxyvep/" height="30" width="40" /></a>

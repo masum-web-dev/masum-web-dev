@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://vercel.app" width="100%" />
+  <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
 

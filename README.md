@@ -1,9 +1,5 @@
-<p align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing Effect" />
-  </a>
-</p>
 
+<img width="1343" height="784" alt="banner" src="https://github.com/user-attachments/assets/f5f04cdb-353b-40f2-b1aa-7f28ef9dbfcb" />
 
 
 

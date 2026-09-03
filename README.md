@@ -1,12 +1,9 @@
-<div align="center">
+<p align="center">
+  <a href="https://git.io">
+    <img src="https://demolab.com" alt="Typing Effect" />
+  </a>
+</p>
 
-<img src="https://vercel.app" width="100%" />
-
-<br/>
-
-<img src="https://herokuapp.com" alt="Typing SVG" />
-
-</div>
 
 
 

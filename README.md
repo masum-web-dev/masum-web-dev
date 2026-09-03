@@ -17,12 +17,6 @@
 
 <div align="center">
 
-# 👋 Hi, I'm MD Masum Hossain
-
-**WordPress Developer | PHP & React Learner | Web & SEO Specialist**
-
-</div>
-
 ---
 
 ### 🙋‍♂️ About Me
@@ -42,26 +36,10 @@ With **intermediate experience in PHP** and deep expertise in **WordPress**, I a
 
 ---
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-</p>
-
 ---
 
-### 📫 Connect With Me
-
-- ✉️ **Email:** [masum.akash1999@gmail.com](mailto:masum.akash1999@gmail.com)
-
 <h3 align="left">Connect with me:</h3>
+✉️ **Email:** [masum.akash1999@gmail.com](mailto:masum.akash1999@gmail.com)
 <p align="left">
 <a href="https://twitter.com/masumakash1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masumakash1999" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/share/1gpjzxyvep/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1gpjzxyvep/" height="30" width="40" /></a>
